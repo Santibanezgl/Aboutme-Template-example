@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+      font-size: 1rem;
+     box-sizing: border-box;
+}
+
+
+#perfil{
+    width: 500px;
+    height: 300px;
+}
+
+body {
+    width: 100vw;
+    height: 300vh;
+}
+
+header{
+    width: 100vw;
+    height: 10vh;
+}
+
+main{
+    width: 100vw;
+}
+
+.borderradius{
+    border-radius: 6px;
+}
+
+#presentacion{
+    width: 100vw;
+    height: 50vh;
+    margin-bottom: 60px;
+}
+
+#habilidades{
+margin-bottom: 90px;
+    
+}
+
+#skills{
+ margin-bottom: 100px;
+}
+
+#experiencia{
+    margin-bottom: 60px;
+}
+
+
+.roboto{
+    font-family: 'Roboto', sans-serif;
+    color: #310666;
+    font-weight: bold;
+}
+
+
+.lora{
+    font-family: 'Lora', serif;
+    color: #4F4F4F;
+}
