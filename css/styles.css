@@ -29,6 +29,10 @@ main{
     width: 100vw;
 }
 
+#link{
+    text-decoration: none;
+}
+
 .borderradius{
     border-radius: 6px;
 }
@@ -46,6 +50,9 @@ margin-bottom: 90px;
 
 #skills{
  margin-bottom: 100px;
+ -webkit-box-shadow: 10px 10px 10px 0px rgba(92,92,92,1);
+-moz-box-shadow: 10px 10px 10px 0px rgba(92,92,92,1);
+box-shadow: 10px 10px 10px 0px rgba(92,92,92,1);
 }
 
 #experiencia{
